@@ -57,7 +57,7 @@ After modifying the `grid` array, save the changes and recompile the program usi
 
 ## Validation Result
 
-After running the program, it will display the validation result in the console. If the Sudoku puzzle is valid, it will print "The Sudoku puzzle is valid." Otherwise, it will print "The Sudoku puzzle is not valid."
+After running the program, it will display the validation result in the console. If the Sudoku puzzle is valid, it will print `"The Sudoku puzzle is valid."` Otherwise, it will print `"The Sudoku puzzle is not valid."`
 
 ## Troubleshooting
 
