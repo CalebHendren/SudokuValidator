@@ -14,19 +14,11 @@ To compile and run the Sudoku Validator program, you need to have the following 
 
 2. Open a terminal or command prompt and navigate to the directory where the source code files are located.
 
-## Compiling the Program
-
-To compile the Sudoku Validator program, use the following command:
-
-`javac SudokuValidator.java`
-
-This command compiles the `SudokuValidator.java` file and generates the corresponding `.class` files.
-
 ## Running the Program
 
 To run the Sudoku Validator program, use the following command:
 
-java SudokuValidator
+```java SudokuValidator```
 
 This command executes the `main()` method in the `SudokuValidator` class, which demonstrates the usage of the Sudoku Validator.
 
