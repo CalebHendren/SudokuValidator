@@ -24,7 +24,7 @@ This command executes the `main()` method in the `SudokuValidator` class, which 
 
 ## Modifying the Sudoku Puzzle
 
-By default, the program uses a predefined Sudoku puzzle grid for validation. If you want to validate a different Sudoku puzzle, you can modify the `grid` array in the `main()` method of the `SudokuValidator` class.
+The program uses a predefined Sudoku puzzle grid for validation. If you want to validate a different Sudoku puzzle, you can modify the `grid` array in the `main()` method of the `SudokuValidator` class.
 
 Update the values in the `grid` array to represent your Sudoku puzzle. Each row of the puzzle corresponds to a subarray in the `grid` array, and each digit in the puzzle is represented by an integer value.
 
